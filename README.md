@@ -2,7 +2,7 @@
 
 VB.NET Windows Forms/desktop program from the Historical Dev archive. This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
 
-**Source last updated:** 2026-08-24  
+**Source last updated:** 2009-07-05  
 **Language:** VB.NET  
 **Target:** v3.5  
 **Output:** WinExe

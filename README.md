@@ -21,6 +21,10 @@ VB.NET Windows Forms/desktop program from the Historical Dev archive. This tree 
 
 Open `Test/VS08Test/VS08Test.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
